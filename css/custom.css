@@ -1,0 +1,27 @@
+/* Your styles go here */
+.imgicon {
+    position: relative;
+    float: center;
+    width:  90px;
+    height: 90px;
+    background-position: 50% 50%;
+    background-repeat:   no-repeat;
+    background-size:     cover;
+}
+
+.navbar-brand {
+  font-weight: 500;
+}
+
+.nav {
+  font-weight: 500;
+}
+
+.invisible {
+  height: 13.5pt;
+  color: #000;
+}
+
+.white {
+  color: white;
+}
